@@ -16,7 +16,7 @@
         <activity android:name=".MainActivity"
 
 
-            android:configChanges="orientation|screenSize|keyboardHidden"> //自己切换
+            android:configChanges="orientation|screenSize|keyboardHidden"> //自己切
 
 
             <intent-filter>
