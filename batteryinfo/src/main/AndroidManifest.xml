@@ -10,7 +10,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        /**
+        android:screenOrientation="portrait"//只针对当前的activity   只支持竖屏portrait     横屏landscape
+        **/
+        <activity android:name=".MainActivity"
+
+
+            android:configChanges="orientation|screenSize|keyboardHidden"> //自己切换
+
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
