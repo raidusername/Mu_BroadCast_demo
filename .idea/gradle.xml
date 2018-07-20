@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/batteryinfo" />
+            <option value="$PROJECT_DIR$/handlerdemo" />
+            <option value="$PROJECT_DIR$/myservices" />
             <option value="$PROJECT_DIR$/saveactivity" />
             <option value="$PROJECT_DIR$/sender" />
           </set>

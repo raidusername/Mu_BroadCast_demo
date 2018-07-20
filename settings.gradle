@@ -1,1 +1,1 @@
-include ':app', ':sender', ':batteryinfo', ':saveactivity'
+include ':app', ':sender', ':batteryinfo', ':saveactivity', ':myservices', ':handlerdemo'
